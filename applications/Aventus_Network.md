@@ -9,7 +9,7 @@
 
 ### Overview
 
-Aventus is an enterprise focused, scalable, sustainable and interoperable layer 2 blockchain on Ethereum, moving to be a parachain in Q3 2022, that makes building on Polkadot, Ethereum and beyond accessible for companies in any ecosystem. To date, Aventus’ enterprise-grade modular architecture has supported use cases including NFTs, video games, loyalty schemes, event ticketing, supply chain provenance and cargo management.
+Aventus is an enterprise-focused, scalable, sustainable and interoperable layer 2 blockchain on Ethereum, moving to be a parachain in Q3 2022, that makes building on Polkadot, Ethereum and beyond accessible for companies in any ecosystem. To date, Aventus’ enterprise-grade modular architecture has supported use cases including NFTs, video games, loyalty schemes, event ticketing, supply chain provenance and cargo management.
 
 This proposal aims at widening the usage of the whole Polkadot universe by making it easily accessible to business customers. Aventus is an established provider of enterprise-grade infrastructure which enables non-technical end users to engage with state-of-the-art blockchain services without needing to directly manage wallets or even own crypto, or understand it at a deep level. Instead, they can rely on facilities of their immediate service providers, who (as per this proposal) would be interacting with every Parachain via the Aventus infrastructure using standard and familiar techniques and tools.
 
@@ -68,7 +68,7 @@ We are already experienced in managing signatures for different tasks and proxyi
 
 #### **Aventus-based enterprise blockchains**
 
-The Aventus ecosystem features ‘corporate’ permissioned blockchains, built on Aventus technology. These chains are essentially technological replicas of the main Aventus Network, albeit with their own independent history and state. They also use AVT as their ‘fuel’ utility token. They are commissioned by enterprises and consortiums which require privacy and security of the ‘permissioned’ chain, while also avoiding siloing their assets. AvN technology wins their hearts by offering a ‘full package’ - easy to use enterprise-ready blockchain platform and middleware/API infrastructure with functionality to transfer assets out onto Ethereum or any other supported blockchain.
+The Aventus ecosystem features ‘corporate’ permissioned blockchains, built on Aventus technology. These chains are essentially technological replicas of the main Aventus Network, albeit with their own independent history and state. They also use AVT as their ‘fuel’ utility token. They are commissioned by enterprises and consortiums which require privacy and security of the ‘permissioned’ chain, while also avoiding siloing their assets. AvN technology wins their hearts and minds by offering a ‘full package’ - easy to use enterprise-ready blockchain platform and middleware/API infrastructure with functionality to transfer assets out onto Ethereum or any other supported blockchain.
 
 The longer-term vision for many of these ‘enterprise’ AvNs is to become more open and interoperable, as the applicable regulation and technology capability permit. Once the main AvN becomes a parachain of Polkadot, the natural path of evolution for ‘enterprise’ AvNs is to also become (independent) parachains, by bidding for and winning their own Polkadot parachain slots. This would greatly increase the demand for DOT, as well as bring significant additional transaction numbers into the Polkadot ecosystem.
 
@@ -174,7 +174,7 @@ In addition to being a gateway to the wider polkadot parachain ecosystem, Aventu
 
 ### Existing functionality and codebase
 
-Aventus mainnet has been running since February 2021, as of the day of writing it has processed 19.64 million transactions. Aventus has developed multiple middleware, infrastructural products and applications creating a full-stack blockchain platform offering for business clients. All components of the solution are being actively developed further, they have been in production for at least 3 months:
+Aventus mainnet has been running since February 2021, as of the day of writing it has processed 19.64 million transactions. Aventus has developed multiple middleware, infrastructural products and applications creating a full-stack blockchain platform offering for business clients. All components of the solution are being actively developed further, majority have been in production for at least 3 months:
 
 - AvN Gateway - an API service providing easy access to AvN (multiple live clients) with enterprise-grade SLAs.
 - Block Explorer - an AvN blockchain indexer SaaS.
@@ -197,7 +197,7 @@ The parachain transition project is under development, the team is working towar
 - Expand the Aventus Gateway to support a multi-parachain environment - estimated duration: 5 months.
 - Expand the Aventus ecosystem to support Aventus as a Parachain - estimated duration: 4 months.
 - Test and improve the Aventus cloud infrastructure as needed to support increased traffic - estimated duration: 2 months.
-- Please note that development work has already started and it may be possible to work on multiple tasks in parallel therefore the calendar time ‘from now’ in the best case scenario may be reduced by up to 20% from shown. Please see the project overview document attached for more information.
+- Please note that development work has already started and it may be possible to work on multiple tasks in parallel therefore the calendar time ‘from now’ in the best case scenario may be reduced by up to 20% from shown.
 
 ### Milestones
 
@@ -261,7 +261,7 @@ The parachain transition project is under development, the team is working towar
 
 ## Future Plans
 
-**Aventus** is focused on enterprise grade infrastructure and use cases, helping drive mainstream adoption of web3. Our recent business successes are across Loyalty (Cashback APP over 1m active wallets), Video games (over 600k users in our play to earn system), Aviation (national airline and one of the largest airports in the world for cargo tracking), NFTs (one of the largest independent films and the most crypto memes from it coming soon) and event ticketing (live nation). Within these categories the addressable market is enormous, we intend to grow adoption vertically and horizontally expanding to other business domains, and scale our SaaS revenue thereby supporting further development.\
+**Aventus** is focused on enterprise grade infrastructure and use cases, helping drive mainstream adoption of web3. Our recent business successes are across Loyalty (Cashback APP over 1m active wallets), Video games (over 600k users in our play to earn system), Aviation (national airline and one of the largest airports in the world for cargo tracking), NFTs (one of the largest independent films and the most crypto memes from it coming soon) and event ticketing (live nation). Within these categories the addressable market is enormous, we intend to grow adoption vertically and horizontally expanding to other business domains, and scale our SaaS revenue thereby supporting further development.
 
 The various levels at which we are seeking to innovate will drastically improve the speed at which we can drive additional deals across these key segments and give access to the amazingly diverse functionality in the polkadot ecosystem to these enterprises and beyond. We believe our entry into the Polkadot ecosystem will simultaneously deliver immediate value to our customers and to the Polkadot community, creating a virtuous circle of adoption and transaction growth, resulting in the improved business and financial architecture in multiple domains. In the long term we plan to evolve our product set and adapt to different use-cases to drive adoption of the Polkadot network across all business segments.
 
@@ -269,9 +269,10 @@ The various levels at which we are seeking to innovate will drastically improve 
 
 **How did you hear about the Grants Program?** Mark Cachia, *Scytale Ventures*.
 
-**Aventus Network** is a mature project with a sizable codebase and multiple business clients on-boarded to the chain. An integrated suite of end-user, middleware and infrastructure product offerings has been developed and is used by multiple customers. Please see p.7a above and the attached project document for more information.
+**Aventus Network** is a mature project with a sizable codebase and multiple business clients on-boarded to the chain. An integrated suite of end-user, middleware and infrastructure product offerings has been developed and is used by multiple customers.
 
 The Aventus Foundation is the sole contributor to the project since we started building on Substrate in 2019 and became an Ethereum layer 2 with a view to becoming a Polkadot parachain.
 
-- Previous grants you may have applied for. \
-N/A
+### Previous grants you may have applied for
+
+No prior grant applications. 
